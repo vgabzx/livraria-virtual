@@ -1,25 +1,36 @@
 # 📚 Livraria Virtual
 
-## 📖 Descrição
+## 📖 Visão Geral
 
-Sistema de uma livraria virtual que gerencia desde a aquisição até a venda de livros.
+O sistema deve gerenciar todos os processos de uma livraria virtual, desde a aquisição até a venda dos livros.
 
-## Funcionalidades
+Os compradores efetuam cadastro e realizam compras com cartão de crédito. O sistema também possui promoções, controle de estoque, integração com editoras e geração de relatórios.
 
-- Cadastro de usuários
+## 🚀 Funcionalidades
+
+- Cadastro de compradores
+- Login de usuários
+- Visualização de catálogo
 - Compra de livros
+- Pagamento com cartão
+- Cálculo de frete
 - Promoções
-- Integração com editoras
 - Controle de estoque
-- Relatórios
-- Recomendações
+- Relatórios gerenciais
+- Recomendações de livros
 
-## Metodologia
+## 🧑‍💻 Metodologia
 
 - Histórias de Usuário
 - Critérios de Aceitação
 - Backlog do Produto
 
-## Integrantes
+## 📁 Estrutura
+
+- backlog.md
+- historias-de-usuario.md
+- criterios-de-aceitacao.md
+
+## 👥 Integrantes
 
 - Gabriel Ferrazza
